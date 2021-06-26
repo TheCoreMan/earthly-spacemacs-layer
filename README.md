@@ -2,6 +2,12 @@
 
 Syntax highlight for Earthfiles in Spacemacs
 
+## How to use
+
+Evaluate the `earthly-mode/syntax-highlighter.el` file in Emacs (`, e b`)
+
+Then open an Earthly file and `SPC earthly-mode RET`.
+
 ## Plan
 
 Write a syntax highlighter + auto-completion layer for Earthfiles for Spacemacs.
