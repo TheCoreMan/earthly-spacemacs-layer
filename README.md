@@ -2,6 +2,8 @@
 
 Syntax highlight for Earthfiles in Spacemacs
 
+![earthly emacs syntax highlighting](https://user-images.githubusercontent.com/6576891/124236488-28ce2600-db1f-11eb-86ca-3b3b53142d2a.png)
+
 ## How to use
 
 Evaluate the `earthly-mode/syntax-highlighter.el` file in Emacs (`, e b`)
@@ -14,7 +16,7 @@ Write a syntax highlighter + auto-completion layer for Earthfiles for Spacemacs.
 
 ### Features (in order of importance)
 
-- [ ] Syntax highlighting
+- [x] Syntax highlighting
 - [ ] auto-completion (including target names)
 - [ ] Built in pop-up docs
 - [ ] Jump to target (bonus points for other files) with `SPC j`
